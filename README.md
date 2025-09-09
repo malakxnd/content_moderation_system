@@ -7,7 +7,7 @@ This project combines machine learning and NLP to filter harmful content, while 
 
 DataSet => https://drive.google.com/drive/folders/1vJph3CisJx68_jHVFH_eRHdwBFqbQ7Zo
 
-Note that yoy don't need to download it to run the project locally.
+Note that you don't need to download it to run the project, it was uploaded into the notebook using its google drive ID, which saved alot of time instead of downloading and then uploading the dataset into the notbook.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
