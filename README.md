@@ -5,6 +5,10 @@ This project combines machine learning and NLP to filter harmful content, while 
 
 📌 Developed as my **graduation project** for the **IEEE AI Training Program**, showcasing practical NLP + ML for real-world content moderation.
 
+DataSet => https://drive.google.com/drive/folders/1vJph3CisJx68_jHVFH_eRHdwBFqbQ7Zo
+
+Note that yoy don't need to download it to run the project locally.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Highlights of My Work
