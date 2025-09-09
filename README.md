@@ -17,6 +17,9 @@ This project combines machine learning and NLP to filter harmful content, while 
 * Showcased **data-driven insights**: which groups (race, religion, orientation, gender) are most targeted by toxicity.
 * Visualized patterns with **word clouds, probability distributions, and comment length analysis**.
 
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6d9036a-b452-412b-aa17-1c8befb652cf" />
+
+
 ---
 
 ## 🧠 Workflow
