@@ -3,6 +3,8 @@
 An AI-powered content moderation system that detects spam and toxic comments in online communities.
 This project combines machine learning and NLP to filter harmful content, while also exploring bias across race, religion, gender, and sexual orientation.
 
+📌 Developed as my **graduation project** for the **IEEE AI Training Program**, showcasing practical NLP + ML for real-world content moderation.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Highlights of My Work
@@ -113,14 +115,9 @@ Insight => the most frequent words individually in positive and negative comment
 
 ---
 
-## 🎯 Why This Project Stands Out
+## 🎯 Key Takeaways About This Project
 
 * Designed to work with **huge datasets** without uploading the full data (efficient sampling).
 * Balanced **rules + machine learning** for explainable moderation.
 * Achieved **91% accuracy on unseen data**.
 * Produced **real-world insights** into online harassment patterns.
-
-🔥 This README is **tailored to your exact workflow** — every number and method reflects what you did.
-You can now **insert your plots under the "Data Insights" section** to make it visually convincing.
-
-👉 Do you also want me to write a **short recruiter-facing tagline at the top** (like one line that instantly sells it as “ML-powered moderation system with 91% accuracy on real-world data”)?
