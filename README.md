@@ -81,13 +81,12 @@ Note that you don't need to download it to run the project, it was uploaded into
 * On unseen dataset:
 
   * **Accuracy**: 0.91
-  * **Precision**: 0.65
-  * **Recall**: 0.65
-  * **F1**: 0.65
+  * **ROC AUC**: 0.93
+  
 
 ---
 
-## 📊 Data Insights (Visualization Titles)
+## 📊 Data Insights
 
 <img width="1489" height="990" alt="image" src="https://github.com/user-attachments/assets/55e7f080-2fc6-474c-8764-3ea9ca899446" />
 Insights:
