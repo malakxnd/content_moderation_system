@@ -89,9 +89,7 @@ Note that you don't need to download it to run the project, it was uploaded into
 ## 📊 Data Insights
 
 <img width="1489" height="990" alt="image" src="https://github.com/user-attachments/assets/55e7f080-2fc6-474c-8764-3ea9ca899446" />
-Insights:
-
-Toxicity against "muslim" group spiked in specific months
+Insights: Toxicity against "muslim" group spiked in specific months
 "black" identity consistently receives high toxicity
 ---
 
